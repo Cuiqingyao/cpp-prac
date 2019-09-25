@@ -3,7 +3,7 @@
 int main()
 {
     using namespace std;
-    int seconds;
+    long long seconds;
     const int hours_of_day = 24;
     const int minutes_of_hour = 60;
     const int seconds_of_minute = 60;
